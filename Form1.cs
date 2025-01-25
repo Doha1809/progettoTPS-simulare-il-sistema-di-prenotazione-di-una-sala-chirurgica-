@@ -17,6 +17,7 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
             salaspecializzata = new SalaSpecializzata("salaspecializzata");
             salagenerale = new SalaGenerale("salagenerale");
             semaforo = new Semaphore(1,1); //Permette solo un thread alla volta
+            button2.Visible = false;
 
         }
 
@@ -51,7 +52,7 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
             else
                 if (comboBox2.SelectedIndex == 1 && data_salaspecializzata != data_nonvalida)
             {
-                ThreadPool.QueueUserWorkItem(Thread_salaspecializzata);
+                ThreadPool.QueueUserWorkItem(Thread_salaspecializzata,button3);
             }
             else
             {
@@ -110,8 +111,9 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
 
         }
 
-        private void Thread_salaspecializzata(object state)
+        private void Thread_salaspecializzata(object button)
         {
+            Button buttone = (Button)button;
             semaforo.WaitOne();
             try
             {
@@ -120,9 +122,9 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
                 Prenotazione appuntamento = new Prenotazione(data_salaspecializzata, textBox1.Text, textBox2.Text);
                salaspecializzata.prenotazioni_sale.Add(appuntamento);
                 string dataSenzaOre = data_salaspecializzata.ToString("dd - MM - yyyy");
-                button3.Invoke(new Action(() =>
+                buttone.Invoke(new Action(() =>
                 {
-                    button3.Text = $"La prenotazione della SALA SPECIALIZZATA in data {dataSenzaOre} a nome del chirurgico {textBox1.Text} per il paziente {textBox2.Text} è avvenuto con successo. "; // Esegui l'operazione sul thread principale
+                    buttone.Text = $"La prenotazione della SALA SPECIALIZZATA in data {dataSenzaOre} a nome del chirurgico {textBox1.Text} per il paziente {textBox2.Text} è avvenuto con successo. "; // Esegui l'operazione sul thread principale
                 }));
             
 
@@ -136,6 +138,11 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (comboBox2.SelectedIndex == -1)
+                MessageBox.Show("Devi selezionare una Sala!!!");
+            if(comboBox1.SelectedIndex==-1)
+                MessageBox.Show("Devi selezionare un grado di urgenza!!!");
+            else
             if (comboBox2.SelectedIndex == 0)
             {
                 if (comboBox1.SelectedIndex == 0)
@@ -172,6 +179,12 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
                          if (comboBox1.SelectedIndex == 2)
                         data_salainvasiva = salainvasiva.DataNormale();
                 }
+               
+            }
+            if (comboBox2.SelectedIndex>=0&&comboBox2.SelectedIndex<=2&& comboBox1.SelectedIndex >= 0 && comboBox1.SelectedIndex <= 2)
+            {
+                button1.Visible = false;
+                button2.Visible = true;
             }
 
         }
@@ -192,7 +205,7 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
             }
             else
             {
-                if (comboBox2.SelectedIndex == 1&&data_salainvasiva != data_nonvalida)
+                if (comboBox2.SelectedIndex == 2&&data_salainvasiva != data_nonvalida)
                 {
                     salainvasiva.altredate.Add(data_salainvasiva);
                     button1_Click(sender, e);
@@ -209,6 +222,10 @@ namespace ProgettoTPS_sistema_prenotazione_sale_chirurgiche_
             salagenerale.altredate.Clear();
             salaspecializzata.altredate.Clear();
             salainvasiva.altredate.Clear();
+            button3.Text = " ";
+            button1.Visible = true;
+            comboBox2.SelectedIndex = -1;
+            comboBox1.SelectedIndex = -1;
         }
     }
 }

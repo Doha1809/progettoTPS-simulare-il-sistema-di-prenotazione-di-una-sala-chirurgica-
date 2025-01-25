@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgettoTPS(sistema prenotazione sale chirurgiche)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcc0808d5b50381d9ecebbd41fcbb4f892af10da")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgettoTPS(sistema prenotazione sale chirurgiche)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgettoTPS(sistema prenotazione sale chirurgiche)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
