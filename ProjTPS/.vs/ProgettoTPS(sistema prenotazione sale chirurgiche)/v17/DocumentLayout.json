@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\salaspecializzata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:salaspecializzata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\salagenerale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:salagenerale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utente\\Desktop\\ProjTPS prova\\RichiestaPrenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichiestaPrenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\anteprima_prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:anteprima_prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\salainvasiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:salainvasiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|c:\\users\\utente\\desktop\\projtps prova\\salachirurgica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDF572-32F5-4054-B17E-6D2AE70A6ADC}|ProgettoTPS(sistema prenotazione sale chirurgiche).csproj|solutionrelative:salachirurgica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:47:26.078Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:30:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RichiestaPrenotazione.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\RichiestaPrenotazione.cs",
+              "RelativeDocumentMoniker": "RichiestaPrenotazione.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\RichiestaPrenotazione.cs",
+              "RelativeToolTip": "RichiestaPrenotazione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:07:32.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaSpecializzata.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\SalaSpecializzata.cs",
+              "RelativeDocumentMoniker": "SalaSpecializzata.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\SalaSpecializzata.cs",
+              "RelativeToolTip": "SalaSpecializzata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:04:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaGenerale.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\SalaGenerale.cs",
+              "RelativeDocumentMoniker": "SalaGenerale.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\SalaGenerale.cs",
+              "RelativeToolTip": "SalaGenerale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:04:35.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prenotazione.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Prenotazione.cs",
+              "RelativeDocumentMoniker": "Prenotazione.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Prenotazione.cs",
+              "RelativeToolTip": "Prenotazione.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:45:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "anteprima_prenotazione.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\anteprima_prenotazione.cs",
+              "RelativeDocumentMoniker": "anteprima_prenotazione.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\anteprima_prenotazione.cs",
+              "RelativeToolTip": "anteprima_prenotazione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:07:22.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaInvasiva.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\SalaInvasiva.cs",
+              "RelativeDocumentMoniker": "SalaInvasiva.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\SalaInvasiva.cs",
+              "RelativeToolTip": "SalaInvasiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:04:40.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Salachirurgica.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Salachirurgica.cs",
+              "RelativeDocumentMoniker": "Salachirurgica.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ProjTPS prova\\Salachirurgica.cs",
+              "RelativeToolTip": "Salachirurgica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:04:32.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

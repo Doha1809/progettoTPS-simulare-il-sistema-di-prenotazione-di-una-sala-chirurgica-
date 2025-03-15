@@ -1,0 +1,52 @@
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).exe
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).deps.json
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).runtimeconfig.json
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).pdb
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS_sistema_prenotazione_sale_chirurgiche_.Form1.resources
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).AssemblyInfo.cs
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\refint\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).pdb
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).genruntimeconfig.cache
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ref\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\source\repos\ProgettoTPS(sistema prenotazione sale chirurgiche)\obj\Debug\net8.0-windows\ProgettoTPS_sistema_prenotazione_sale_chirurgiche_.Properties.Resources.resources
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).exe
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).deps.json
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).runtimeconfig.json
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).pdb
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS_sistema_prenotazione_sale_chirurgiche_.Form1.resources
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS_sistema_prenotazione_sale_chirurgiche_.Properties.Resources.resources
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).csproj.GenerateResource.cache
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).AssemblyInfoInputs.cache
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).AssemblyInfo.cs
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).csproj.CoreCompileInputs.cache
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).sourcelink.json
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\refint\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).pdb
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).genruntimeconfig.cache
+C:\Users\Utente\progettoTPS-simulare-il-sistema-di-prenotazione-di-una-sala-chirurgica-\obj\Debug\net8.0-windows\ref\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\Desktop\ProjTPS prova\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).exe
+C:\Users\Utente\Desktop\ProjTPS prova\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).deps.json
+C:\Users\Utente\Desktop\ProjTPS prova\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).runtimeconfig.json
+C:\Users\Utente\Desktop\ProjTPS prova\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\Desktop\ProjTPS prova\bin\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).pdb
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS_sistema_prenotazione_sale_chirurgiche_.Form1.resources
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS_sistema_prenotazione_sale_chirurgiche_.Properties.Resources.resources
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).AssemblyInfo.cs
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\refint\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).pdb
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ProgettoTPS(sistema prenotazione sale chirurgiche).genruntimeconfig.cache
+C:\Users\Utente\Desktop\ProjTPS prova\obj\Debug\net8.0-windows\ref\ProgettoTPS(sistema prenotazione sale chirurgiche).dll
